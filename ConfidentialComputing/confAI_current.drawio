@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-19T23:14:26.431Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="soKziojiGdF4HttTSnYU" version="24.7.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-20T00:09:17.617Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="nPtCfLh7G4kxFJegK7R_" version="24.7.1" type="github" pages="3">
   <diagram name="motivation" id="mfI0fhyjf4zQTvwovW11">
     <mxGraphModel dx="1111" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -117,13 +117,13 @@
         <mxCell id="fxZBFzPNy6dcDTTvV8By-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="fxZBFzPNy6dcDTTvV8By-1" target="fxZBFzPNy6dcDTTvV8By-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fxZBFzPNy6dcDTTvV8By-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Cloud Service&lt;br&gt;Providers&lt;/font&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="560" y="270" width="76.92" height="50" as="geometry" />
+        <mxCell id="fxZBFzPNy6dcDTTvV8By-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Cloud Service&lt;br&gt;Providers&lt;br&gt;(e.g., Azure)&lt;/font&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="550" y="270" width="76.92" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fxZBFzPNy6dcDTTvV8By-7" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fxZBFzPNy6dcDTTvV8By-2" target="fxZBFzPNy6dcDTTvV8By-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fxZBFzPNy6dcDTTvV8By-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;User&lt;/font&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+        <mxCell id="fxZBFzPNy6dcDTTvV8By-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Custom&lt;br&gt;(e.g., AirBus)&lt;/font&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
           <mxGeometry x="150" y="270" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fxZBFzPNy6dcDTTvV8By-4" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fxZBFzPNy6dcDTTvV8By-3" target="fxZBFzPNy6dcDTTvV8By-1">
@@ -134,7 +134,7 @@
             <mxPoint x="401" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fxZBFzPNy6dcDTTvV8By-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;AI Service&lt;br&gt;Providers&lt;/font&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.worker_role;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="fxZBFzPNy6dcDTTvV8By-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Foundation&lt;br&gt;Model Owner&lt;br&gt;(e.g., OpenAI)&lt;/span&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.worker_role;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="370" y="270" width="62.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fxZBFzPNy6dcDTTvV8By-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Proprietary&lt;br&gt;Model&lt;/font&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#d6b656;fillColor=#fff2cc;shape=mxgraph.azure.powershell_file;pointerEvents=1;" vertex="1" parent="1">
@@ -150,13 +150,7 @@
           <mxGeometry x="341.25" y="190" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fxZBFzPNy6dcDTTvV8By-18" value="&lt;font color=&quot;#b85450&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Steal model?&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="538.46" y="200" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="HRshiEZ2HFwCfRViF-Li-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;i&gt;Inference and&lt;br&gt;Fine-tuning&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="211.25" y="310" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HRshiEZ2HFwCfRViF-Li-2" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;i&gt;Deployment&lt;/i&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="431.53999999999996" y="319" width="120" height="40" as="geometry" />
+          <mxGeometry x="528.46" y="200" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
