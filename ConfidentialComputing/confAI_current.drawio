@@ -463,7 +463,7 @@
           <mxGeometry x="340" y="430" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Kk-nextDAN9q8RxsEvzH-6" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;2. Symbolizing the trace&lt;br&gt;for the Replayer.&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="bWTS4RZ2VBcJppn634_f-1">
-          <mxGeometry x="360" y="620" width="300" height="70" as="geometry" />
+          <mxGeometry x="355" y="630" width="300" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Kk-nextDAN9q8RxsEvzH-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.872;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.845;exitY=0.996;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="bWTS4RZ2VBcJppn634_f-1" source="bWTS4RZ2VBcJppn634_f-23" target="bWTS4RZ2VBcJppn634_f-24">
           <mxGeometry relative="1" as="geometry">
