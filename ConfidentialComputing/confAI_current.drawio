@@ -783,7 +783,7 @@
         <mxCell id="soreFSLKcC4R4MHSPm2--0" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#6c8ebf;fillColor=#dae8fc;shape=mxgraph.azure.powershell_file;pointerEvents=1;" parent="soreFSLKcC4R4MHSPm2--2" vertex="1">
           <mxGeometry x="30" y="55" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="soreFSLKcC4R4MHSPm2--6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.78;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.412;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="vzRUu-n7_C8ES-oY-x57-1" source="soreFSLKcC4R4MHSPm2--5" edge="1" target="vzRUu-n7_C8ES-oY-x57-15">
+        <mxCell id="soreFSLKcC4R4MHSPm2--6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.786;exitY=1.005;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.412;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="vzRUu-n7_C8ES-oY-x57-1" source="soreFSLKcC4R4MHSPm2--5" edge="1" target="vzRUu-n7_C8ES-oY-x57-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="340" as="targetPoint" />
           </mxGeometry>
