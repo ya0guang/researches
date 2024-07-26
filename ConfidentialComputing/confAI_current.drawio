@@ -119,7 +119,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SsAu1BgZUN6YifTcw_0O" name="threeparties">
-    <mxGraphModel dx="778" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="915" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -178,6 +178,9 @@
         </mxCell>
         <mxCell id="9R8xU8OcL38RJMT4a9oq-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNTAgMTUwIiBpZD0ibG9nb3NhbmR0eXBlc19jb20iPjxkZWZzPjxzdHlsZT4uY2xzLTF7ZmlsbDpub25lO308L3N0eWxlPjwvZGVmcz48ZyBpZD0iTGF5ZXJfMyI+PHBhdGggZD0iTTAsMEgxNTBWMTUwSDBWMFoiIGNsYXNzPSJjbHMtMSIgaWQ9IkxheWVyXzMtMiIvPjwvZz48cGF0aCBkPSJNMTMyLjE3LDYyLjU1YzMuMDItOS4wOSwxLjk3LTE5LjA0LTIuODctMjcuMy03LjI4LTEyLjY3LTIxLjkxLTE5LjE5LTM2LjE5LTE2LjEyLTEyLjQ1LTEzLjg1LTMzLjc3LTE0Ljk4LTQ3LjYyLTIuNTMtNC40LDMuOTUtNy42Nyw4Ljk5LTkuNTEsMTQuNjEtOS4zOCwxLjkyLTE3LjQ4LDcuOC0yMi4yMywxNi4xMi03LjM2LDEyLjY1LTUuNjksMjguNjEsNC4xMywzOS40Ni0zLjAzLDkuMDktMS45OSwxOS4wNCwyLjg0LDI3LjMsNy4yOSwxMi42NywyMS45MywxOS4xOSwzNi4yMiwxNi4xMiw2LjM2LDcuMTYsMTUuNDksMTEuMjMsMjUuMDcsMTEuMTgsMTQuNjQsLjAxLDI3LjYyLTkuNDQsMzIuMDktMjMuMzgsOS4zOC0xLjkzLDE3LjQ4LTcuOCwyMi4yMy0xNi4xMiw3LjI3LTEyLjYzLDUuNTktMjguNS00LjE2LTM5LjMzWm0tNTAuMTYsNzAuMWMtNS44NSwwLTExLjUxLTIuMDQtMTUuOTktNS43OWwuNzktLjQ1LDI2LjU3LTE1LjM0YzEuMzUtLjc5LDIuMTctMi4yMywyLjE4LTMuNzl2LTM3LjQ2bDExLjIzLDYuNWMuMTEsLjA2LC4xOSwuMTYsLjIxLC4yOXYzMS4wNGMtLjAzLDEzLjc5LTExLjIsMjQuOTYtMjQuOTksMjQuOTlabS01My43MS0yMi45NGMtMi45My01LjA2LTMuOTgtMTAuOTktMi45Ny0xNi43NmwuNzksLjQ3LDI2LjU5LDE1LjM0YzEuMzQsLjc5LDMsLjc5LDQuMzQsMGwzMi40OS0xOC43M3YxMi45N2MwLC4xNC0uMDcsLjI2LS4xOCwuMzRsLTI2LjkxLDE1LjUyYy0xMS45Niw2Ljg5LTI3LjI0LDIuNzktMzQuMTQtOS4xNVptLTctNTcuODdjMi45NS01LjA5LDcuNjEtOC45OCwxMy4xNS0xMC45N3YzMS41N2MtLjAyLDEuNTUsLjgxLDIuOTksMi4xNiwzLjc2bDMyLjMzLDE4LjY1LTExLjIzLDYuNWMtLjEyLC4wNy0uMjcsLjA3LS4zOSwwbC0yNi44Ni0xNS40OWMtMTEuOTMtNi45Mi0xNi4wMy0yMi4xOC05LjE1LTM0LjE0di4xM1ptOTIuMjgsMjEuNDRsLTMyLjQzLTE4LjgzLDExLjIxLTYuNDdjLjEyLS4wNywuMjctLjA3LC4zOSwwbDI2Ljg2LDE1LjUyYzExLjk1LDYuOSwxNi4wNSwyMi4xOCw5LjE1LDM0LjEzLTIuOSw1LjAzLTcuNDcsOC45LTEyLjkyLDEwLjkzdi0zMS41N2MtLjA1LTEuNTUtLjkxLTIuOTYtMi4yNi0zLjcxWm0xMS4xOC0xNi44MWwtLjc5LS40Ny0yNi41NC0xNS40N2MtMS4zNS0uNzktMy4wMi0uNzktNC4zNywwbC0zMi40NiwxOC43M3YtMTIuOTdjLS4wMS0uMTMsLjA1LS4yNywuMTYtLjM0bDI2Ljg2LTE1LjQ5YzExLjk3LTYuOSwyNy4yNy0yLjc4LDM0LjE2LDkuMTksMi45MSw1LjA2LDMuOTcsMTAuOTcsMi45OCwxNi43MnYuMTFabS03MC4yOSwyMi45OWwtMTEuMjMtNi40N2MtLjExLS4wNy0uMTktLjE4LS4yMS0uMzJ2LTMwLjk2Yy4wMi0xMy44MiwxMS4yMy0yNSwyNS4wNS0yNC45OCw1LjgzLDAsMTEuNDgsMi4wNSwxNS45Niw1Ljc4bC0uNzksLjQ1LTI2LjU3LDE1LjM0Yy0xLjM1LC43OS0yLjE3LDIuMjMtMi4xOCwzLjc5bC0uMDMsMzcuMzhabTYuMS0xMy4xNWwxNC40Ny04LjM0LDE0LjQ5LDguMzR2MTYuNjhsLTE0LjQ0LDguMzQtMTQuNDktOC4zNC0uMDMtMTYuNjhaIi8+PC9zdmc+;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="326.62" y="285" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="9R8xU8OcL38RJMT4a9oq-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Example Cloud Deployment of AI Model&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="410" width="400" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
