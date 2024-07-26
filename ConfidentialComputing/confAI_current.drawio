@@ -143,8 +143,8 @@
         <mxCell id="fxZBFzPNy6dcDTTvV8By-14" value="&lt;font size=&quot;1&quot; color=&quot;#b85450&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;Data Retention?&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="334" y="205" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fxZBFzPNy6dcDTTvV8By-18" value="&lt;font color=&quot;#b85450&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Steal model?&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="191.62" y="205" width="140" height="40" as="geometry" />
+        <mxCell id="fxZBFzPNy6dcDTTvV8By-18" value="&lt;font color=&quot;#b85450&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Model Steal?&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="196.62" y="205" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Uiq1e_e0KHx_Bf4JKzjG-1" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;exitX=0.945;exitY=0.632;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="IUReXWNGWDdD4BgbjBeH-2" edge="1">
           <mxGeometry relative="1" as="geometry">
