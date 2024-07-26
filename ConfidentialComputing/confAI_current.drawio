@@ -527,19 +527,19 @@
         <mxCell id="HRQ_p3TAEnVLJZ03L0eV-0" />
         <mxCell id="HRQ_p3TAEnVLJZ03L0eV-1" parent="HRQ_p3TAEnVLJZ03L0eV-0" />
         <mxCell id="HRQ_p3TAEnVLJZ03L0eV-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=6;" vertex="1" parent="HRQ_p3TAEnVLJZ03L0eV-1">
-          <mxGeometry x="150" y="510" width="240" height="260" as="geometry" />
+          <mxGeometry x="120" y="510" width="240" height="260" as="geometry" />
         </mxCell>
         <mxCell id="HRQ_p3TAEnVLJZ03L0eV-5" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;AI Service Libraries&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="HRQ_p3TAEnVLJZ03L0eV-1">
-          <mxGeometry x="160" y="620" width="220" height="40" as="geometry" />
+          <mxGeometry x="130" y="620" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HRQ_p3TAEnVLJZ03L0eV-6" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;GPU Libraries&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="HRQ_p3TAEnVLJZ03L0eV-1">
-          <mxGeometry x="160" y="720" width="220" height="40" as="geometry" />
+          <mxGeometry x="130" y="720" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HRQ_p3TAEnVLJZ03L0eV-28" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;AI Service Code&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="HRQ_p3TAEnVLJZ03L0eV-1">
-          <mxGeometry x="160" y="520" width="220" height="90" as="geometry" />
+          <mxGeometry x="130" y="520" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="HRQ_p3TAEnVLJZ03L0eV-29" value="" style="group" vertex="1" connectable="0" parent="HRQ_p3TAEnVLJZ03L0eV-1">
-          <mxGeometry x="170" y="530" width="200" height="40" as="geometry" />
+          <mxGeometry x="140" y="530" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HRQ_p3TAEnVLJZ03L0eV-30" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;GPU Kernels&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="HRQ_p3TAEnVLJZ03L0eV-29">
           <mxGeometry width="200" height="40" as="geometry" />
@@ -548,22 +548,22 @@
           <mxGeometry x="166.66666666666666" y="5" width="23.75" height="23.75" as="geometry" />
         </mxCell>
         <mxCell id="shnoF1OBDBeDDX7pPRLA-0" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Recorder&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;glass=0;shadow=0;strokeWidth=1;gradientColor=none;" vertex="1" parent="HRQ_p3TAEnVLJZ03L0eV-1">
-          <mxGeometry x="160" y="670" width="220" height="40" as="geometry" />
+          <mxGeometry x="130" y="670" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="shnoF1OBDBeDDX7pPRLA-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=6;" vertex="1" parent="HRQ_p3TAEnVLJZ03L0eV-1">
-          <mxGeometry x="450" y="510" width="240" height="260" as="geometry" />
+          <mxGeometry x="400" y="510" width="240" height="260" as="geometry" />
         </mxCell>
         <mxCell id="shnoF1OBDBeDDX7pPRLA-2" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;strike&gt;AI Service Libraries&lt;/strike&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#b85450;dashed=1;strokeWidth=2;" vertex="1" parent="HRQ_p3TAEnVLJZ03L0eV-1">
-          <mxGeometry x="460" y="620" width="220" height="40" as="geometry" />
+          <mxGeometry x="410" y="620" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="shnoF1OBDBeDDX7pPRLA-3" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;GPU Libraries&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="HRQ_p3TAEnVLJZ03L0eV-1">
-          <mxGeometry x="460" y="720" width="220" height="40" as="geometry" />
+          <mxGeometry x="410" y="720" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="shnoF1OBDBeDDX7pPRLA-4" value="&lt;div&gt;&lt;strike&gt;&lt;br&gt;&lt;/strike&gt;&lt;/div&gt;&lt;div&gt;&lt;strike&gt;&lt;br&gt;&lt;/strike&gt;&lt;/div&gt;&lt;div&gt;&lt;strike&gt;&lt;br&gt;&lt;/strike&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;strike&gt;AI Service Code&lt;/strike&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#b85450;dashed=1;strokeWidth=2;" vertex="1" parent="HRQ_p3TAEnVLJZ03L0eV-1">
-          <mxGeometry x="460" y="520" width="220" height="90" as="geometry" />
+          <mxGeometry x="410" y="520" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="shnoF1OBDBeDDX7pPRLA-5" value="" style="group" vertex="1" connectable="0" parent="HRQ_p3TAEnVLJZ03L0eV-1">
-          <mxGeometry x="470" y="530" width="200" height="40" as="geometry" />
+          <mxGeometry x="420" y="530" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="shnoF1OBDBeDDX7pPRLA-6" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;GPU Kernels&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="shnoF1OBDBeDDX7pPRLA-5">
           <mxGeometry width="200" height="40" as="geometry" />
@@ -572,12 +572,12 @@
           <mxGeometry x="166.66666666666666" y="5" width="23.75" height="23.75" as="geometry" />
         </mxCell>
         <mxCell id="shnoF1OBDBeDDX7pPRLA-8" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Replayer&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;glass=0;shadow=0;strokeWidth=1;gradientColor=none;" vertex="1" parent="HRQ_p3TAEnVLJZ03L0eV-1">
-          <mxGeometry x="460" y="670" width="220" height="40" as="geometry" />
+          <mxGeometry x="410" y="670" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="shnoF1OBDBeDDX7pPRLA-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="HRQ_p3TAEnVLJZ03L0eV-1" source="HRQ_p3TAEnVLJZ03L0eV-3" target="shnoF1OBDBeDDX7pPRLA-1">
+        <mxCell id="shnoF1OBDBeDDX7pPRLA-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="HRQ_p3TAEnVLJZ03L0eV-1" source="HRQ_p3TAEnVLJZ03L0eV-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="790" as="sourcePoint" />
-            <mxPoint x="330" y="740" as="targetPoint" />
+            <mxPoint x="250" y="790" as="sourcePoint" />
+            <mxPoint x="400" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
