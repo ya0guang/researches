@@ -729,15 +729,15 @@
     </mxGraphModel>
   </diagram>
   <diagram name="CCSolutionv2" id="kjlFGQLgj9lRgYAwPX9r">
-    <mxGraphModel dx="1111" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="915" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="tuvyZunWPPQqkNztCXOd-0" />
         <mxCell id="tuvyZunWPPQqkNztCXOd-1" parent="tuvyZunWPPQqkNztCXOd-0" />
         <mxCell id="kfhlLs6VbcBizjedwPfk-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=15;" vertex="1" parent="tuvyZunWPPQqkNztCXOd-1">
-          <mxGeometry x="160" y="540" width="520" height="185" as="geometry" />
+          <mxGeometry x="160" y="540" width="520" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="kfhlLs6VbcBizjedwPfk-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Confidential Virtual Machine&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="tuvyZunWPPQqkNztCXOd-1">
-          <mxGeometry x="239" y="725" width="350" height="40" as="geometry" />
+        <mxCell id="kfhlLs6VbcBizjedwPfk-2" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;Confidential Virtual Machine&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="tuvyZunWPPQqkNztCXOd-1">
+          <mxGeometry x="245" y="720" width="350" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1koTennkbBBcrBNW0LXo-0" value="&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;GPU TEE&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="tuvyZunWPPQqkNztCXOd-1">
           <mxGeometry x="178" y="560" width="234" height="150" as="geometry" />
@@ -801,6 +801,12 @@
         </mxCell>
         <mxCell id="cKOlgIzyiUhkOz-zY3E2-0" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Private&lt;br style=&quot;&quot;&gt;Input&lt;/font&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#82b366;fillColor=#d5e8d4;shape=mxgraph.azure.file;pointerEvents=1;aspect=fixed;" vertex="1" parent="tuvyZunWPPQqkNztCXOd-1">
           <mxGeometry x="345" y="430" width="38" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tX8Iy2Ea8jon2Ui7iOP3-0" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Hypervisor /&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;Cloud Service Provider&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="tuvyZunWPPQqkNztCXOd-1">
+          <mxGeometry x="179" y="770" width="482" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tX8Iy2Ea8jon2Ui7iOP3-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Solution with Confidential Computing&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="tuvyZunWPPQqkNztCXOd-1">
+          <mxGeometry x="195" y="820" width="450" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
