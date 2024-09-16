@@ -11,3 +11,4 @@
 
 - On heterogeneous backends in FaaS, measurement can be different (e.g. because architecture, applied optimizations, etc.). We want a unified view of measurements across different backends.
 - Another thing is about the workflow. When several functions are orchestrated as a workflow, we then not only need to conduct attestation to a single task, but to the whole workflow. *what are the challenges here?*
+
