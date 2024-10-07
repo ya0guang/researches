@@ -14,6 +14,8 @@
 
 ## Known Vulnerabilities
 
+Seems like some vulnerabilities are found by [trivy](https://github.com/aquasecurity/trivy)? See [this post](https://github.com/aquasecurity/trivy/discussions/7302).
+
 ### SEV
 
 - [freax13's blog](https://blog.freax13.de/)

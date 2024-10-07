@@ -16,3 +16,11 @@
 
 - Correspondence between users' requests and responses: non-interference
 - Add another layer to obfuscate users
+
+## Related Work
+
+- [Why Should I Trust Your Code?: Confidential computing enables users to authenticate code running in TEEs, but users also need evidence this code is trustworthy.](https://dl.acm.org/doi/abs/10.1145/3623460)
+
+## Related Projects
+
+- [https://reproducible-builds.org/](https://reproducible-builds.org/)

@@ -1,5 +1,11 @@
 # Investigation of Faculty Positions
 
+## Potential Postdoc Targets
+
+- [Michael K. Reiter](https://www.cs.unc.edu/~reiter/)
+- [Adrian Perrig](https://www.cs.cmu.edu/~adrian/)
+- [Bryan J. Parno]()
+
 ## Meta Research
 
 - [csrankings](http://csrankings.org/)
